@@ -5,7 +5,7 @@ This is the official implementation of
 
 Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning 
 
-Huiyi Wang, [Haodong Lu](https://jeff024.github.io/), [Lina Yao](https://www.linayao.com/), [Dong Gong](https://donggong1.github.io/) 
+[Huiyi Wang](https://huiyiwang01.github.io/), [Haodong Lu](https://jeff024.github.io/), [Lina Yao](https://www.linayao.com/), [Dong Gong](https://donggong1.github.io/) 
 
 
 In CVPR 2025.

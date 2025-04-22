@@ -1,0 +1,17 @@
+name: sema_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - timm==0.9.8
+      - torch==2.0.0
+      - numpy==1.24.3
+      - scipy
+      - tqdm
+      - easydict
+      - ftfy
+      - ipdb
+      
